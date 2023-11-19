@@ -1,4 +1,4 @@
-# Redux Saga integration
+# Redux Saga Integration
 
 ![Redux saga architecture](./images/redux-saga-architecture.png)
 
